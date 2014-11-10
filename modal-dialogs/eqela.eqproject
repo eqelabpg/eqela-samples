@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Modal Dialogs
+#
+
+projectname: Modal Dialogs
+vendorid: com.eqela
+mainmodule: com.eqela.modaldialogs

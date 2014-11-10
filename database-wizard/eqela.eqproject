@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Database Wizard
+#
+
+projectname: Database Wizard
+vendorid: com.eqela
+mainmodule: com.eqela.databasewizard

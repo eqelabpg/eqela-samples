@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Database Wizard
+#
+
+projectname: Drag Sample
+vendorid: com.eqela
+mainmodule: com.eqela.dragsample
